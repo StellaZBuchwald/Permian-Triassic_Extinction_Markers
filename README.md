@@ -10,6 +10,6 @@ Create a sub-folder titled `Raw_data` in the working directory, which should con
 peak areas of the compounds of interest are saved in an individual `.txt`-files per sample.
 
 When initiating the project, a folder `Output` is created in the working directory,
-that will contain all data produced.
+that will contain all output produced.
 
 Additionally, the output of quantified n-ACHs and phytanyl toluene (in ug/g TOC) is provided in the Excel file `FID_mol_quantified_ug_TOC_Chol.xlsx`. 
